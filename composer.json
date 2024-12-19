@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Batenko1\\Posts\\Providers\\PostServiceProdiver"
+                "Batenko1\\Posts\\Providers\\PostServiceProvider"
             ]
         }
     },
